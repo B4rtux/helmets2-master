@@ -1,0 +1,36 @@
+{
+  "bombers": {
+    "scale": {
+      "x": 0.71,
+      "y": 0.71,
+      "z": 0.71
+    },
+    "position": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "rotation": {
+      "x": 173,
+      "y": 180,
+      "z": 180
+    },
+    "menuScale": {
+      "x": 1.5,
+      "y": 1.5,
+      "z": 1.5
+    },
+    "resourceId": "artifact:2006210149252858856",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
+}
