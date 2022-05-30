@@ -37,7 +37,7 @@ export default class HelloWorld {
 
 		// spawn a copy of the glTF model
 		this.button = MRE.Actor.CreateFromLibrary(this.context, {
-			resourceId: "artifact:1856746880843645390",
+			resourceId: "artifact:2005956610622488686",
 			actor: {
 				name: 'Altspace button',
 				transform: {
@@ -50,7 +50,7 @@ export default class HelloWorld {
 		});
 		
 		this.button1 = MRE.Actor.CreateFromLibrary(this.context, {
-			resourceId: "artifact:1856746917543805402",
+			resourceId: "artifact:1988808147824804791",
 			actor: {
 				name: 'Altspace button1',
 				transform: {
@@ -63,7 +63,7 @@ export default class HelloWorld {
 		});
 		
 		this.button2 = MRE.Actor.CreateFromLibrary(this.context, {
-			resourceId: "artifact:1856746905615204822",
+			resourceId: "artifact:2005956597511094376",
 			actor: {
 				name: 'Altspace button2',
 				transform: {
